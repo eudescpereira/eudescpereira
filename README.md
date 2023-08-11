@@ -1,12 +1,11 @@
 ## Hi! I'm Eudes Pereira :) IT student at UNICAP.
 
-## My fav languages are JAVA, SQL and Spring Boot.
+# My fav languages are JAVA, SQL and Spring Boot.
 
-## Here you can find not only back-end projects but also front-end ones, whitin react and react native.
+# Here you can find not only back-end projects but also front-end ones, whitin react and react native.
 
-## Feel feel to check them and also follow me on linkedin!
+# Feel feel to check them and also follow me on linkedin!
 
-## My fav 
 <div align="center">
   <a href="https://github.com/eudescpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eudescpereira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
